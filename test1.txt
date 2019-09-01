@@ -1,1 +1,2 @@
 change 1
+Start at 13:00 to see how to set up and work with GitHub
