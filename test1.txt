@@ -1,10 +1,1 @@
- Volume in drive C is TI106412W0C
- Volume Serial Number is 72E6-2E26
-
- Directory of C:\Users\Mark\Desktop\Work\Projects
-
-09/01/2019  08:01 AM    <DIR>          .
-09/01/2019  08:01 AM    <DIR>          ..
-09/01/2019  08:01 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  178,144,415,744 bytes free
+change 1
